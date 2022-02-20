@@ -9,6 +9,7 @@
     }
   ],
   "dependencies": {
+    "jp.keijiro.kino.post-processing": "2.1.15",
     "jp.keijiro.danish-statues": "0.0.4",
     "jp.keijiro.test-assets": "1.0.1",
     "com.unity.modules.animation": "1.0.0",
